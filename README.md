@@ -4,7 +4,7 @@ I'm a Computer Science Engineering student focused on Java backend development, 
 
 I enjoy building backend systems, automation tools, and practical applications using Java, Spring Boot, REST APIs, databases, testing, clean code, and AI-assisted software engineering.
 
-## Current Focus
+## Diploma Thesis
 
 For my diploma thesis, I am developing a GitHub bot that analyzes Java pull request diffs, detects code smells using Large Language Models, and produces structured review findings to support cleaner and more maintainable code.
 
