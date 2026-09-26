@@ -1,12 +1,15 @@
-# Hi, I'm Dimitra 👋
+## Hi, I'm Dimitra 👋
 
-I'm a Computer Science Engineering student focused on Java backend development, software quality, and developer tools.
+I'm a Computer Science & Engineering graduate interested in software engineering, backend systems, developer tooling, and AI-assisted software development.
 
-I enjoy building backend systems, automation tools, and practical applications using Java, Spring Boot, REST APIs, databases, testing, clean code, and AI-assisted software engineering.
+My two main projects are an LLM-powered GitHub pull-request reviewer written in Java. It retrieves changed files through the GitHub API, analyzes Java code for code smells, validates structured LLM findings against the pull-request context, and suggests refactorings and a Spring Boot Progressive Web Application that digitized document management for professional diving operations, replacing paper-based workflows with structured digital forms.
+
+I'm currently strengthening my data structures, algorithms, system design, and software engineering skills while pursuing graduate software engineering opportunities.
+
 
 ## Diploma Thesis
 
-For my diploma thesis, I am developing a GitHub bot that analyzes Java pull request diffs, detects code smells using Large Language Models, and produces structured review findings to support cleaner and more maintainable code.
+For my diploma thesis, I developed a GitHub bot that analyzes Java pull request diffs, detects code smells using Large Language Models, suggests refactorings, and produces structured review findings to support cleaner and more maintainable code.
 
 ## Tech Stack
 
